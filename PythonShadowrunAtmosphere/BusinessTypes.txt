@@ -1,0 +1,100 @@
+Restaurant
+Fast Food
+Diner
+Streetside Vendor
+Tavern
+Nightclub
+Exotic Entertainment
+Body Shop
+Tech Store
+Technical Repair
+Computer Store
+Computer Repair
+Gun Shop
+Grocery Store
+Butcher Shop
+Liquor Store
+Stuffer Shack
+Clothes
+Antiques
+Bookstore
+Hardware Store
+Tattoo Parlor
+Massage Parlor
+Brothel
+Fortune Teller
+Organ Bank
+Blood Bank
+Exterminator
+Florist
+Large Hotel
+Small Hotel
+Furniture Store
+Toy Store
+Pawn Shop
+Jewelry Store
+Arcade
+Simchip Store
+Office Building
+Large Bank
+Small Bank
+Bakery
+Vehicle Repair
+Car Dealership
+Taxi Garage
+Theatre
+Surplus Store
+Pharmacy
+Crack House
+NERPS Dealer
+Copy Shop
+Soykaf Shop
+Building Supply
+Natural Foods Store
+Building Supply
+General Contractor
+Foundry
+Junkyard
+Dump
+Discount Store (S-Mart)
+Casino
+Lottery Sales
+Gym
+Food Bank
+Homeless Shelter
+Church
+Mission
+Clinic
+Doctor’s Office
+Street Doc Clinic
+Biotech Sales
+Optometrist
+Dentist
+Lawyer’s Office
+Real Estate Agent
+Insurance Agent
+Stock Broker
+Accountant’s Office
+Detective Agency
+Escort Agency
+Loan/Finance Office
+Import/Export
+Warehouse
+Data Processing Center
+Chemical Plant
+Parts Store
+Hobby Shop
+Pet Store
+Psychiatrists Office
+Cell Phones and Pocket Secretaries
+Martial Arts Studio
+Gas Station
+Temp Agency
+Assembly Plant
+Research Facility
+Programmers Office
+Union Hall
+Parcel Delivery
+Courier
+Combine Two (EX: Fast Food/Courier)
+Combine Three
